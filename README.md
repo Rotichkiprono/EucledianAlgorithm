@@ -1,0 +1,2 @@
+# EucledianAlgorithm
+python function
